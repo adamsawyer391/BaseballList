@@ -1,0 +1,253 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BaseballList</string>
+
+    <string-array name="baseball_teams">
+        <item>Arizona Diamondbacks</item>
+        <item>Atlanta Braves</item>
+        <item>Baltimore Orioles</item>
+        <item>Boston Red Sox</item>
+        <item>Chicago White Sox</item>
+        <item>Chicago Cubs</item>
+        <item>Cincinnati Reds</item>
+        <item>Cleveland Indians</item>
+        <item>Colorado Rockies</item>
+        <item>Detroit Tigers</item>
+        <item>Houston Astros</item>
+        <item>Kansas City Royals</item>
+        <item>Los Angeles Angels</item>
+        <item>Los Angeles Dodgers</item>
+        <item>Miami Marlins</item>
+        <item>Milwaukee Brewers</item>
+        <item>Minnesota Twins</item>
+        <item>New York Yankees</item>
+        <item>New York Mets</item>
+        <item>Oakland Athletics</item>
+        <item>Philadelphia Phillies</item>
+        <item>Pittsburgh Pirates</item>
+        <item>San Diego Padres</item>
+        <item>San Francisco Giants</item>
+        <item>Seattle Mariners</item>
+        <item>St. Louis Cardinals</item>
+        <item>Tampa Bay Rays</item>
+        <item>Texas Rangers</item>
+        <item>Toronto Blue Jays</item>
+        <item>Washington Nationals</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>Phoenix, AZ</item>
+        <item>Atlanta, GA</item>
+        <item>Baltimore, MD</item>
+        <item>Boston, MA</item>
+        <item>Chicago, IL</item>
+        <item>Chicago, IL</item>
+        <item>Cincinnati, OH</item>
+        <item>Cleveland, OH</item>
+        <item>Denver, CO</item>
+        <item>Detroit, MI</item>
+        <item>Houston, TX</item>
+        <item>Kansas City, MO</item>
+        <item>Los Angeles, CA</item>
+        <item>Los Angeles, CA</item>
+        <item>Miami, FL</item>
+        <item>Milwaukee, WI</item>
+        <item>St. Paul, MN</item>
+        <item>New York, NY</item>
+        <item>New York, NY</item>
+        <item>Oakland, CA</item>
+        <item>Philadelphia, PA</item>
+        <item>Pittsburgh, PA</item>
+        <item>San Diego, CA</item>
+        <item>San Francisco, CA</item>
+        <item>Seattle, WA</item>
+        <item>St. Louis, MO</item>
+        <item>Tampa Bay, FL</item>
+        <item>Houston, TX</item>
+        <item>Toronto, Ontario</item>
+        <item>Washington, D.C.</item>
+    </string-array>
+
+    <string-array name="stadiums">
+        <item>Chase Field</item>
+        <item>Truist Park</item>
+        <item>Oriole Park at Camden Yards</item>
+        <item>Fenway Park</item>
+        <item>Guaranteed Rate Field</item>
+        <item>Wrigley Field</item>
+        <item>Great American Ball Park</item>
+        <item>Progressive Field</item>
+        <item>Coors Field</item>
+        <item>Comerica Park</item>
+        <item>Minute Maid Park</item>
+        <item>Kauffman Stadium</item>
+        <item>Angel Stadium</item>
+        <item>Dodger Stadium</item>
+        <item>Marlins Park</item>
+        <item>American Family Field</item>
+        <item>Target Field</item>
+        <item>Yankee Stadium</item>
+        <item>Citi Field</item>
+        <item>RingCentral Colisieum</item>
+        <item>Citizens Bank Park</item>
+        <item>PNC Park</item>
+        <item>Petco Park</item>
+        <item>Oracle Park</item>
+        <item>T-Mobile Park</item>
+        <item>Busch Stadium</item>
+        <item>Tropicana Field</item>
+        <item>Globe Life Field</item>
+        <item>Rogers Centre</item>
+        <item>Nationals Park</item>
+    </string-array>
+
+    <string-array name="records">
+        <item>85–77</item>
+        <item>97–65</item>
+        <item>54–108</item>
+        <item>84–78</item>
+        <item>72–89</item>
+        <item>84–78</item>
+        <item>75–87</item>
+        <item>93–69</item>
+        <item>71–91</item>
+        <item>107–55</item>
+        <item>59–103</item>
+        <item>72–90</item>
+        <item>106–56</item>
+        <item>57–105</item>
+        <item>89–73</item>
+        <item>101–61</item>
+        <item>103–59</item>
+        <item>86–76</item>
+        <item>97–65</item>
+        <item>81–81</item>
+        <item>69–93</item>
+        <item>70–92</item>
+        <item>77–85</item>
+        <item>68–94</item>
+        <item>91–71</item>
+        <item>96–66</item>
+        <item>78–84</item>
+        <item>67–95</item>
+        <item>93–69</item>
+        <item>95–67</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item tools:ignore="TypographyDashes">https://upload.wikimedia.org/wikipedia/commons/7/78/Chase_Field_-_2011-07-11_-_Interior_North_Upper.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/87/SunTrust_Park_Opening_Day_2017.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/bf/CamdenYards_2005-05-08.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/01/Fenway_from_Legend%27s_Box.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e2/U.S._Cellular_Field_%2830972191694%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a7/Wrigley_Field_2018_-_42195054760.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/01/Great_American_Ball_Park_%2820718178689%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e6/2016-10-06_Progressive_Field_before_ALDS_Game_1_between_Cleveland_and_Boston.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/4c/Coors_field_1.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e8/Tigers_opening_day2_2007.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3d/Minute_Maid_Park_2010.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/47/NewKauffman.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/4a/Angelstadiummarch2019.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d2/Dodger_Stadium_field_from_upper_deck_2015-10-04.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/fa/Marlins_First_Pitch_at_Marlins_Park%2C_April_4%2C_2012_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/20/MillerPark2.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/28/Target_Field_April_2010.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/44/Yankee_Stadium_upper_deck_2010.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/49/Citi_Field%2C_June_2_2012.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/89/McAfee_Coliseum_%2815993646150%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/f2/Fieldatthepark.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/1a/PNC_Park%2C_Home_of_Pittsburgh_Pirates.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/fa/Petco_Park_Interior.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/63/ATT_Sunset_Panorama.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/93/SafecoFieldTop_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/f4/Busch_Stadium_III_%2816180972535%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e1/Tropicana_Field_Playing_Field_Opening_Day_2010.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/fc/Globelifefield_june2020.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/52/Rogers_Centre_2017_from_upper_deck.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/55/Opening_of_Nationals_Park_-_039_%282377924697%29.jpg</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>The Arizona Diamondbacks, often shortened as the D-backs, are an American professional baseball team based in Phoenix, Arizona.
+            The Diamondbacks compete in Major League Baseball (MLB) as a member club of the National League (NL) West division. The team plays its home games at Chase Field,
+            formerly known as Bank One Ballpark. Throughout its history, Arizona has won one World Series championship, defeating the New York Yankees in 2001, becoming the fastest expansion
+            team in Major League history to win a championship, doing it in only the fourth season since the franchise\u0027s inception.\n\n
+            On March 9, 1995, Phoenix was awarded an expansion franchise to begin play for the 1998 season. A $130 million franchise fee was paid to Major League Baseball and on January 16, 1997,
+            the Diamondbacks were officially voted into the National League. The Diamondbacks\u0027 first major league game was played against the Colorado Rockies on March 31, 1998, at Bank One
+            Ballpark. The ballpark was renamed Chase Field in 2005, as a result of Bank One Corporation\u0027s merger with JPMorgan Chase &amp; Co.\n\n
+            Since their debut, the Diamondbacks have won five NL West division titles, one NL pennant, one Wild Card game, and the 2001 World Series. \n\n
+            From 1998 to 2020, the Diamondbacks have an overall record of 1,788-1,836 (.493).</item>
+        <item>The Atlanta Braves are an American professional baseball team based in the Atlanta metropolitan area. The Braves compete in Major League Baseball (MLB) as a member club of the
+            National League (NL) East division. The team played its home games at Atlanta–Fulton County Stadium from 1966 to 1996, and at Turner Field from 1997 to 2016. Since 2017, their home
+            stadium has been Truist Park (formerly SunTrust Park), located 10 miles (16 km) northwest of downtown Atlanta in Cobb County, Georgia. The Braves play spring training games at CoolToday
+            Park in North Port, Florida.\n\n
+            The name Braves, which was first used in 1912, originates from a term for a Native American warrior. They are nicknamed the Bravos, and often referred to as America\u0027s Team in
+            reference to the team\u0027s games being broadcast on the nationally available TBS from the 1970s until 2007, giving the team a nationwide fan base.\n\n
+            From 1991 to 2005, the Braves were one of the most successful teams in baseball, winning division titles an unprecedented 14 consecutive times (omitting the strike-shortened 1994 season
+            in which there were no official division champions), and producing one of the greatest pitching rotations in the history of baseball. Most notably, this rotation consisted of
+            pitchers Greg Maddux, John Smoltz, and Tom Glavine. Pitcher Steve Avery also was a significant contributor to the rotation during the period of 1991–1993. The Braves won the National
+            League West division from 1991 to 1993, and after divisional realignment, the National League East division from 1995 to 2005. They returned to the playoffs as the National League Wild
+            Card in 2010. The Braves advanced to the World Series five times in the 1990s (1991, 1992, 1995, 1996, and 1999), winning the title in 1995 against the Cleveland Indians. Since their debut
+            in the National League in 1876, the franchise has won 18 divisional titles, 17 National League pennants, and three World Series championships – in 1914 as the Boston Braves, in 1957 as the
+            Milwaukee Braves, and in 1995 as the Atlanta Braves. The Braves are the only Major League Baseball franchise to have won the World Series in three different home cities.\n\n
+            The Braves and the Chicago Cubs are the National League\u0027s two remaining charter franchises. The Braves were founded in Boston, Massachusetts, in 1871, as the Boston Red Stockings (not to be
+            confused with the American League\u0027s Boston Red Sox). The team states it is the \u0027oldest continuously operating professional sports franchise in America.\u0027\n\n
+            After various name changes, the team eventually began operating as the Boston Braves, which lasted for most of the first half of the 20th century. Then, in 1953, the team moved to Milwaukee,
+            Wisconsin, and became the Milwaukee Braves, followed by their move to Atlanta in 1966.\n\n
+            As of the end of the 2020 season, the Braves\u0027 overall win–loss record is 10,732-10,684 (.501 all-time win–loss percentage)</item>
+        <item>The Baltimore Orioles are an American professional baseball team based in Baltimore. The Orioles compete in Major League Baseball (MLB) as a member club of the American League (AL)
+            East division. As one of the American League\u0027s eight charter teams in 1901, this particular franchise spent its first year as a major league club in Milwaukee, Wisconsin, as the Milwaukee
+            Brewers before moving to St. Louis, Missouri, to become the St. Louis Browns in 1902. After 52 years in St. Louis, the franchise was purchased in November 1953 by a syndicate of Baltimore
+            business and civic interests led by attorney and civic activist Clarence Miles and Mayor Thomas D\u0027Alesandro Jr. The team\u0027s current owner is American trial lawyer Peter Angelos.\n\n
+            The Orioles adopted their team name in honor of the official state bird of Maryland; it had also been used by several previous major and minor league baseball clubs in Baltimore,
+            including another AL charter member franchise also named the Baltimore Orioles, which moved north in 1903 to eventually become the New York Yankees. Nicknames for the team include the
+            \u0027\u0027O\u0027s\u0027\u0027 and the \u0027\u0027Birds\u0027\u0027.\n\n
+            The Orioles experienced their greatest success from 1966 to 1983, when they made six World Series appearances, winning three of them (1966, 1970, 1983). This era of the club
+            featured several future Hall of Famers who would later be inducted representing the Orioles, such as third baseman Brooks Robinson, outfielder Frank Robinson, starting pitcher
+            Jim Palmer, first baseman Eddie Murray, shortstop Cal Ripken Jr., and manager Earl Weaver. The Orioles have won a total of nine division championships (1969–1971, 1973–1974, 1979,
+            1983, 1997, 2014), six pennants (1966, 1969–1971, 1979, 1983), and three wild card berths (1996, 2012, 2016). \n\n</item>
+        <item>The Boston Red Sox are an American professional baseball team based in Boston. They compete in Major League Baseball (MLB) as a member club of the American League (AL) East division.
+            The team have won nine World Series championships, tied for the third-most of any MLB team, and they have played in 14. Their most recent World Series appearance and win was in 2018.
+            In addition, they won the 1904 American League pennant, but were not able to defend their 1903 World Series championship when the New York Giants refused to participate in the 1904 World
+            Series. Founded in 1901 as one of the American League\u0027s eight charter franchises, the Red Sox\u0027 home ballpark has been Fenway Park since 1912. The \u0027\u0027Red Sox\u0027\u0027
+            name was chosen by the team owner, John I. Taylor, circa 1908, following the lead of previous teams that had been known as the \u0027\u0027Boston Red Stockings\u0027\u0027, including the
+            forerunner of the Atlanta Braves.\n\n
+            The Red Sox were a dominant team in the new league, defeating the Pittsburgh Pirates in the first World Series in 1903 and winning four more championships by 1918. However,
+            they then went into one of the longest championship droughts in baseball history, dubbed the \u0027\u0027Curse of the Bambino\u0027\u0027 after its alleged inception due to the Red Sox\u0027
+            sale of Babe Ruth to the rival New York Yankees two years after their world championship in 1918, an 86-year wait before the team\u0027s sixth World Championship in 2004. The team\u0027s
+            history during that period was punctuated with some of the most memorable moments in World Series history, including Enos Slaughter\u0027s \u0027\u0027mad dash\u0027\u0027 in 1946,
+            the \u0027\u0027Impossible Dream\u0027\u0027 of 1967, Carlton Fisk\u0027s home run in 1975, and Bill Buckner\u0027s error in 1986. Following their victory in the 2018 World Series, they
+            became the first team to win four World Series trophies in the 21st century, with championships in 2004, 2007, 2013 and 2018. The team\u0027s history has also been marked by the team\u0027s
+            intense rivalry with the New York Yankees, arguably the fiercest and most historic in North American professional sports.\n\n
+            The Boston Red Sox are owned by Fenway Sports Group, which also owns Liverpool F.C. of the Premier League in England. They are consistently one of the top MLB teams in average road
+            attendance, while the small capacity of Fenway Park prevents them from leading in overall attendance. From May 15, 2003 to April 10, 2013, the Red Sox sold out every home game—a total
+            of 820 games (794 regular season) for a major professional sports record. Both Neil Diamond\u0027s \u0027\u0027Sweet Caroline\u0027\u0027 and The Standells\u0027s \u0027\u0027Dirty
+            Water\u0027\u0027 have become anthems for the Red Sox. </item>
+        <item>Chicago White Sox</item>
+        <item>Chicago Cubs</item>
+        <item>Cincinnati Reds</item>
+        <item>Cleveland Indians</item>
+        <item>Colorado Rockies</item>
+        <item>Detroit Tigers</item>
+        <item>Houston Astros</item>
+        <item>Kansas City Royals</item>
+        <item>Los Angeles Angels</item>
+        <item>Los Angeles Dodgers</item>
+        <item>Miami Marlins</item>
+        <item>Milwaukee Brewers</item>
+        <item>Minnesota Twins</item>
+        <item>New York Yankees</item>
+        <item>New York Mets</item>
+        <item>Oakland Athletics</item>
+        <item>Philadelphia Phillies</item>
+        <item>Pittsburgh Pirates</item>
+        <item>San Diego Padres</item>
+        <item>San Francisco Giants</item>
+        <item>Seattle Mariners</item>
+        <item>St. Louis Cardinals</item>
+        <item>Tampa Bay Rays</item>
+        <item>Texas Rangers</item>
+        <item>Toronto Blue Jays</item>
+        <item>Washington Nationals</item>
+    </string-array>
+
+</resources>
